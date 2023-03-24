@@ -1696,7 +1696,7 @@ AddSubClass("cleric", "Baphomet's Bloodletters", {
 	regExpSearch: /^(?=.*baphomet's)(?=.*bloodletters).*$/i,
     subname: "Baphomet's Bloodletters",
     source: ["HB", 0],
-    spellcastingExtra: ["armor of agathys", "cause fear", "darkness", "crown of madness", "bestow curse", "vampiric touch", "blight", "death ward", "cloudkill", "circle of death"],
+    spellcastingExtra: ["hellish rebuke", "armor of agathys", "darkvision", "branding smite", "hunger of hadar", "bestow curse", "evard's black tentacles", "phantasmal killer", "destructive wave", "circle of death"],
     features: {
 		"subclassfeature1": { 
 			name: "Bonus Proficiencies",
@@ -1837,7 +1837,7 @@ AddSubClass("cleric", "Samael's Annihilators", {
 	regExpSearch: /^(?=.*samael's)(?=.*annihilators).*$/i,
     subname: "Samael's Annihilators",
     source: ["HB", 0],
-	spellcastingExtra: ["armor of agathys", "cause fear", "darkness", "crown of madness", "bestow curse", "vampiric touch", "blight", "death ward", "cloudkill", "circle of death"],
+	spellcastingExtra: ["ray of sickness", "cause fear", "crown of madness", "enthrall", "vampiric touch", "life transference", "blight", "sickening radiance", "circle of death", "danse macabre"],
     features: {
 		"subclassfeature1": { 
 			name : "Bonus Proficiencies",
