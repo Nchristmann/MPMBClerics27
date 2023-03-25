@@ -1819,7 +1819,7 @@ AddSubClass("cleric", "Hecate's Witches", {
 			spellcastingBonus : [{
 				name : "Arcane Mastery",
 				"class" : "wizard",
-				level : [1, 8],
+				level : [0, 8],
 				firstCol : "checkbox",
 				spellcastingAbility : 5,
 				times : 10
