@@ -118,7 +118,7 @@ AddSubClass("cleric", "Theron's Justiciars", {
 			name: "Channel Divinity: Aura of Justice",
 			source: ["HB", 0],
 			minlevel: 6,
-				action : ["reaction", ""],
+			action : ["reaction", ""],
 			description : "\n   " + "As a reaction, when someone within 20 ft of me is attacked, I and friendly creatures within 10 feet of me gain a bonus to damage rolls against the attacker. The bonus damage is equal to my proficiency bonus and lasts till the end of my next turn."
 		},
 		"subclassfeature8": {
